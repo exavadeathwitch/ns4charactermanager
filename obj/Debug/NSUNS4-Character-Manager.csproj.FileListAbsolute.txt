@@ -28,3 +28,33 @@ C:\Users\santi\Documentos\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_
 C:\Users\santi\Documentos\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_UnlockCharaTotalEditor.resources
 C:\Users\santi\Documentos\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Misc.Tool_PathList.resources
 C:\Users\santi\Documentos\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tools.Tool_MovesetCoder.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\NSUNS4 Character Manager.exe
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\NSUNS4 Character Manager.pdb
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\System.dll
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\System.Drawing.dll
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\bin\Debug\System.Windows.Forms.dll
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4-Character-Manager.csprojAssemblyReference.cache
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Functions.Tool_ExportCostume.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Main.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_AddCharacter.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_AddCostume.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Misc.Tool_PathList.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Misc.Tool_TextureReplacer.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_CharacodeEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_DuelPlayerParamEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_DuelPlayerParamEditor_Costumes.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tools.Tool_MovesetCoder.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_PlayerSettingParamEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_RosterEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_RosterEditor_PositionData.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_SkillCustomizeParamEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_SpcloadEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4_Character_Manager.Tool_UnlockCharaTotalEditor.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\Properties.Resources.resources
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4-Character-Manager.csproj.GenerateResource.cache
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4-Character-Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4-Character-Manager.csproj.CopyComplete
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4 Character Manager.exe
+C:\Users\Ares\Documents\GitHub\ns4charactermanager\obj\Debug\NSUNS4 Character Manager.pdb
