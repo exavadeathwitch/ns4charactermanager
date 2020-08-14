@@ -1001,5 +1001,10 @@ namespace NSUNS4_Character_Manager.Tools
 
             if(plAnmList[ver].Count > 0) t_1cmn.Checked = false;
         }
+
+        private void label18_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

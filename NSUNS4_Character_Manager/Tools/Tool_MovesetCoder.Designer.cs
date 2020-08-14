@@ -35,6 +35,8 @@
             this.saveAsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.closeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.setCubemanToEveryANMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.setCubemanOffInAllPlanmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.mov_list = new System.Windows.Forms.ListBox();
@@ -106,8 +108,6 @@
             this.b_moveupmov = new System.Windows.Forms.Button();
             this.b_movedownmov = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.setCubemanToEveryANMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.setCubemanOffInAllPlanmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.t_loadsection)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_direction)).BeginInit();
@@ -182,6 +182,20 @@
             this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
             this.toolsToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
             this.toolsToolStripMenuItem.Text = "Tools";
+            // 
+            // setCubemanToEveryANMToolStripMenuItem
+            // 
+            this.setCubemanToEveryANMToolStripMenuItem.Name = "setCubemanToEveryANMToolStripMenuItem";
+            this.setCubemanToEveryANMToolStripMenuItem.Size = new System.Drawing.Size(333, 22);
+            this.setCubemanToEveryANMToolStripMenuItem.Text = "Set cubeman ON in all pl_anm of this ver section";
+            this.setCubemanToEveryANMToolStripMenuItem.Click += new System.EventHandler(this.setCubemanToEveryANMToolStripMenuItem_Click);
+            // 
+            // setCubemanOffInAllPlanmToolStripMenuItem
+            // 
+            this.setCubemanOffInAllPlanmToolStripMenuItem.Name = "setCubemanOffInAllPlanmToolStripMenuItem";
+            this.setCubemanOffInAllPlanmToolStripMenuItem.Size = new System.Drawing.Size(333, 22);
+            this.setCubemanOffInAllPlanmToolStripMenuItem.Text = "Set cubeman OFF in all pl_anm of this ver section";
+            this.setCubemanOffInAllPlanmToolStripMenuItem.Click += new System.EventHandler(this.setCubemanOffInAllPlanmToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 
@@ -611,9 +625,9 @@
             this.label17.AutoSize = true;
             this.label17.Location = new System.Drawing.Point(446, 188);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(106, 13);
+            this.label17.Size = new System.Drawing.Size(113, 13);
             this.label17.TabIndex = 46;
-            this.label17.Text = "Previous PL_ANM 2:";
+            this.label17.Text = "Auto-Linked PL_ANM:";
             // 
             // t_prevanm3
             // 
@@ -627,9 +641,10 @@
             this.label18.AutoSize = true;
             this.label18.Location = new System.Drawing.Point(446, 231);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(106, 13);
+            this.label18.Size = new System.Drawing.Size(99, 13);
             this.label18.TabIndex = 48;
-            this.label18.Text = "Previous PL_ANM 3:";
+            this.label18.Text = "Reaction PL_ANM:";
+            this.label18.Click += new System.EventHandler(this.label18_Click);
             // 
             // t_saveanm
             // 
@@ -840,20 +855,6 @@
             this.button1.TabIndex = 71;
             this.button1.Text = "Help";
             this.button1.UseVisualStyleBackColor = true;
-            // 
-            // setCubemanToEveryANMToolStripMenuItem
-            // 
-            this.setCubemanToEveryANMToolStripMenuItem.Name = "setCubemanToEveryANMToolStripMenuItem";
-            this.setCubemanToEveryANMToolStripMenuItem.Size = new System.Drawing.Size(333, 22);
-            this.setCubemanToEveryANMToolStripMenuItem.Text = "Set cubeman ON in all pl_anm of this ver section";
-            this.setCubemanToEveryANMToolStripMenuItem.Click += new System.EventHandler(this.setCubemanToEveryANMToolStripMenuItem_Click);
-            // 
-            // setCubemanOffInAllPlanmToolStripMenuItem
-            // 
-            this.setCubemanOffInAllPlanmToolStripMenuItem.Name = "setCubemanOffInAllPlanmToolStripMenuItem";
-            this.setCubemanOffInAllPlanmToolStripMenuItem.Size = new System.Drawing.Size(333, 22);
-            this.setCubemanOffInAllPlanmToolStripMenuItem.Text = "Set cubeman OFF in all pl_anm of this ver section";
-            this.setCubemanOffInAllPlanmToolStripMenuItem.Click += new System.EventHandler(this.setCubemanOffInAllPlanmToolStripMenuItem_Click);
             // 
             // Tool_MovesetCoder
             // 
