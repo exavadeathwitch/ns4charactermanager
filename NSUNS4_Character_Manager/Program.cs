@@ -15,16 +15,16 @@ namespace NSUNS4_Character_Manager
 
         public static string[] HITEFF =
         {
-            "0x00 = None",
-            "0x01 = Kick",
-            "0x02 = Punch",
+            "0x00 = None, no SFX",
+            "0x01 = Normal Punch",
+            "0x02 = Normal Punch, Alternative SFX",
             "0x03 = Air",
-            "0x04 = Sword",
-            "0x05 = Sword Slash",
-            "0x06 = Fangs",
-            "0x07 = ???",
-            "0x08 = ???",
-            "0x09 = Fire",
+            "0x04 = Normal Cut",
+            "0x05 = Heavy Cut",
+            "0x06 = Cat-like Cut (Assumably for Kurama, Naruto, Yugito)",
+            "0x07 = Normal Punch SFX, No Effect",
+            "0x08 = Fire SFX, No Effect",
+            "0x09 = Fire SFX, Causes Lingering Burning Damage, No Hit Effect",
         };
 
         public static string[] DMGCOND =
